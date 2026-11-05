@@ -1,0 +1,12 @@
+.env
+.env.*
+!.env.example
+**/.env
+**/.env.*
+!**/.env.example
+**/__pycache__/
+**/.venv/
+**/venv/
+frontend/node_modules/
+frontend/dist/
+backend/models/mumbai_model.joblib
